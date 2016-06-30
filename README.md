@@ -2,7 +2,7 @@
 
 [Unity Package Download](IcoSphereCreator.unitypackage)
 
-![Thumbnaul](SS/ss001.png)
+![Thumbnaul](ss001.PNG)
 
 ## Discription
 
