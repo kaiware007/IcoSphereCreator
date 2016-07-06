@@ -147,10 +147,14 @@ public static class IcoSphereCreator {
         }
 
         int tt = tri * 3;
-        uv[0 * tt + 0].x = uv[1 * tt + 0].x = 1;
-        uv[2 * tt + 0].x = uv[3 * tt + 0].x = 0;
-        uv[4 * tt + 0].x = uv[5 * tt + 0].x = 0.25f;
-        uv[6 * tt + 0].x = uv[7 * tt + 0].x = 0.5f;
+        uv[0 * tt + 0].x = 0.875f;
+        uv[1 * tt + 0].x = 0.875f;
+        uv[2 * tt + 0].x = 0.125f;
+        uv[3 * tt + 0].x = 0.125f;
+        uv[4 * tt + 0].x = 0.625f;
+        uv[5 * tt + 0].x = 0.375f;
+        uv[6 * tt + 0].x = 0.375f;
+        uv[7 * tt + 0].x = 0.625f;
 
     }
 }
